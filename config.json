@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6289529737500@s.whatsapp.net","6289529737500@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ ItsMeDanzzོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/m.dnii",
+    "botName": "Haruka-Mdོ ",
+    "footer": "Bot Multi-Device",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 30,
+    "gcount": {
+        "prem": 1000,
+        "user": 20
+    }
+}
